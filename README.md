@@ -29,3 +29,15 @@ Night Round :
   Mafia : Will elect one persoin to be killed
   Doctor : Will try to save one person from beign killed.
   Detective : Will get to know the role of one person.
+  
+ ## Mafia - Server
+ 
+ Login A user
+ 
+ Register a user
+ 
+ Join a server
+ 
+ Create a server
+ 
+ 
