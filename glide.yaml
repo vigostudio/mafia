@@ -1,0 +1,4 @@
+package: mafia
+import:
+- package: github.com/gin-gonic/gin
+  version: ~1.5.0
